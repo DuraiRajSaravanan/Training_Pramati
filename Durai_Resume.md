@@ -46,6 +46,8 @@ Higher Studies (2011 - 2013) - 92%
 
 ## CONTACT
 
+Durairaj,
+
 Associate Software Engineer,
 
 Pramati Technologies, Chennai.
