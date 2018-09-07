@@ -1,3 +1,1 @@
-# Durairaj
->Associate Software Engineer
->Pramati Technologies, Chennai
+# Durairaj>Associate Software Engineer>Pramati Technologies, Chennai
