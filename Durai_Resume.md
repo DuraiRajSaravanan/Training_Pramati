@@ -17,7 +17,9 @@ Good communication and leadership skills
 Associate System Engineer | IBM India Pvt Ltd 
 
 -Proactively worked in IFW(Inquiry Framework) of Citi group project
+
 -Excelled in Business Activity Warehouse(BAW) of Citi group project
+
 -Worked in Android projects that are part of IBM's internal labour claiming
 
 ## PROJECTS
