@@ -12,7 +12,7 @@ Solid understanding of object-oriented programming.
 Beginner level knowledge in Mobility - Android and iOS.
 Good communication and leadership skills
 
-##WORK EXPERIENCE
+## WORK EXPERIENCE
 
 Associate System Engineer | IBM India Pvt Ltd 
 
