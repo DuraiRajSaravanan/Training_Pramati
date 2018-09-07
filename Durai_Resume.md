@@ -1,11 +1,14 @@
 # Durairaj
-> ## Associate Software Engineer
-> ## Pramati Technologies, Chennai
+
+Associate Software Engineer
+
+Pramati Technologies, Chennai
 
 Contact Number : +91 9789879736
+
 Email id       : durairaj1696@gmail.com
  
-## CAREER OOBJECTIVE
+## CAREER OBJECTIVE
 
 To work in a challenging environment where I can utilize and develope my knowledge, and simultaneously contribute to the betterment of environment.
 
@@ -27,9 +30,8 @@ Good communication and leadership skills
 ## EDUCATIONAL PROFILE
 
 ### R.M.K COLLEGE OF ENGINEERING AND TECHNOLOGY
-#### Bachelor of Engineering (2013 - 2017)
-
+Bachelor of Engineering (2013 - 2017) - 76%
 
 
 ### VELAMMAL SCHOOL OF EXCELLENCE
-#### Higher Studies (2011 - 2013)
+Higher Studies (2011 - 2013) - 92%
