@@ -6,7 +6,7 @@
   1. Hackerrank online test : Two programming questions which were based on string handling, array operations for completing which 1 hour 30 minutes were given.
   2. Skype Interview : Explanation for the programs from online test followed by technical  and projects explaination the technical dicussion where general details like family details and previous company experiences were asked
 
-#### Positive feedback 
+#### Positive feedback :
 
 - Giving enough time to answer their questions, and clarifying our doubts in their questions without any hesitation. 
 - Giving interview online is bit comfortable. coming from different locations to attend the interview would have been difficult.
