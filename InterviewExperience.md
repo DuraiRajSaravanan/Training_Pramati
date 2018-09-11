@@ -3,7 +3,7 @@
 #### Interview Process:
 
 - Application : Applied through online
-  1. Hackerrank online test : Two programming questions which were based on stack and pattern printing for completing which 1 hour 30 minutes were given.
+  1. Hackerrank online test : Two programming questions which were based on stack and pattern printing for completing which, 1 hour 30 minutes were given.
   2. Skype Interview : Explanation for the programs from online test followed by technical discussion where programs on pattern printing were given and enough time was given to solve the programs. After which our engineering projects details and general details like family details and previous company experiences were asked.
 
 #### Positive feedback :
@@ -18,9 +18,9 @@
 #### What was in interviewer’s mind:
 
 - Interviewer tested our ability to learn and implement new languages : They asked us to write the programs that we did in technical round with a different language which is new to us. We can make use of internet to learn the language.
-- Tested if we are strong in logics : When a program is given they were focused on the approach and logic that we used to solve the problem
+- Tested if we are strong in logics : When a program is given they were focused on the approach and logic that we used to solve the problem then whether we know the language.
 
 #### What was in candidate’s mind when giving interview?
 
-- Interviewers are experienced person, which made us felt that whether we have met their expectations or not. 
+- We felt whether we have met their expectations or not. 
 - We could understand that interviewers were having high expectations : The difficulty level of programs they gave were moderate.
