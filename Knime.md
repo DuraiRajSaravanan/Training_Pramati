@@ -41,7 +41,7 @@
 ## Cons of KNIME :
 
 1) **Learning curve of KNIME is steep:**
-  - Although there is a bit of a learning curve to use Knime, it’s quite user friendly and anyone (without programming experience) will be able to learn to use it.
+   - Although there is a bit of a learning curve to use Knime, it’s quite user friendly and anyone (without programming experience) will be able to learn to use it.
 
 ## Which tool is being used widely in market?
 **Informatica**
