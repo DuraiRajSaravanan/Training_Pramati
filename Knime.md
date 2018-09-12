@@ -44,7 +44,9 @@
 
 ## Which tool is being used widely in market?
 ### Informatica 
- - Informatica is a software development company founded in 1993. It is headquartered in Redwood City, California. Its core products include Enterprise Cloud Data Management and Data Integration. It is being widely used in market
+ - Informatica is a software development company founded in 1993. It is headquartered in Redwood City, California. Its core products include Enterprise Cloud Data Management and Data Integration. It is being widely used in market because,
+   - Well established and new integration techniques are used
+   - Informatica is the most mature ETL tool in market
 
 
 
