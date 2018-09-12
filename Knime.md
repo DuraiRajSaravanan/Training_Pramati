@@ -10,26 +10,26 @@
 
 ## Pros of KNIME :
               
-1)**Open for innovation**     : 
+1) **Open for innovation**     : 
      The additional Python and R scripting possibilities and host of plugins take it beyond a simple ETL tool to a proper       business intelligence and data analysis suite. 
 
     
-2)**Support and help from KNIME** :
-  #### KNIME Development Services
-  Many companies contribute their development to the open-source community. In addition, KNIME offers development services to enhance KNIME with additional functionality. This can be enhancements within KNIME itself or additional nodes that provide custom functionality. 
-  #### Data Analysis and Consulting Services
-  KNIME can help you with in-house data analysis. We offer consulting services for data analysis or assistance with installation or implementation of the KNIME Enterprise Extensions either directly or via one of our qualified partners.
-  #### Training Services
-  KNIME offers different training classes to help get the most out of KNIME. Training sessions can be at the KNIME facilities in Zurich or in house at your site and conducted either by KNIME staff or a qualified partner.
+2) **Support and help from KNIME** :
+  - **KNIME Development Services**
+      Many companies contribute their development to the open-source community. In addition, KNIME offers development services to enhance KNIME with additional functionality. This can be enhancements within KNIME itself or additional nodes that provide custom functionality. 
+  - **Data Analysis and Consulting Services**
+      KNIME can help you with in-house data analysis. We offer consulting services for data analysis or assistance with installation or implementation of the KNIME Enterprise Extensions either directly or via one of our qualified partners.
+  - **Training Services**
+      KNIME offers different training classes to help get the most out of KNIME. Training sessions can be at the KNIME facilities in Zurich or in house at your site and conducted either by KNIME staff or a qualified partner.
 
    
-3)**Marketing material and Educational material :**  
+3) **Marketing material and Educational material :**  
 
-   Access to the full KNIME course materials for in-company use in order to educate your technical team. We also provide access to KNIME marketing materials.
+      Access to the full KNIME course materials for in-company use in order to educate your technical team. We also provide access to KNIME marketing materials.
 
-4)**Users can visually create data flows (or pipelines)**
+4) **Users can visually create data flows (or pipelines)**
 
-5)**Selectively execute some or all analysis steps, and later inspect the results, models, and interactive views**
+5) **Selectively execute some or all analysis steps, and later inspect the results, models, and interactive views**
 
 6) **Support differents types of database(through JDBC or native connectors: SQLite, SQL Server, MySQL, PostgreSQL, Vertica and H2)**
 
