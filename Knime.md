@@ -15,11 +15,11 @@
 
     
 2) **Support and help from KNIME** :
-  - **KNIME Development Services**
+   - **KNIME Development Services**
       Many companies contribute their development to the open-source community. In addition, KNIME offers development services to enhance KNIME with additional functionality. This can be enhancements within KNIME itself or additional nodes that provide custom functionality. 
-  - **Data Analysis and Consulting Services**
+   - **Data Analysis and Consulting Services**
       KNIME can help you with in-house data analysis. We offer consulting services for data analysis or assistance with installation or implementation of the KNIME Enterprise Extensions either directly or via one of our qualified partners.
-  - **Training Services**
+   - **Training Services**
       KNIME offers different training classes to help get the most out of KNIME. Training sessions can be at the KNIME facilities in Zurich or in house at your site and conducted either by KNIME staff or a qualified partner.
 
    
