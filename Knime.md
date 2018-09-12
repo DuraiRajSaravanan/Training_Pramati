@@ -2,9 +2,10 @@
 
 ## About KNIME :
          
-   1,The KNIME Analytics Platform is an open source data analytics, reporting and integration platform developed and supported by KNIME.com using graphical interface.
+   1, The KNIME Analytics Platform is an open source data analytics, reporting and integration platform developed and supported by KNIME.com using graphical interface.
 
-   2,IME enables users to create data flows, execute selected analysis steps and review the results, models and interactive views
+   2, KNIME enables users to create data flows, execute selected analysis steps and review the results, models and interactive views
+   
    3, The graphical user interface and JDBC allows assembly of nodes blending different data sources, including preprocessing (ETL: Extraction, Transformation, Loading), for modeling, data analysis and visualization without, or with only minimal, programming.
 
 ## Pros of KNIME :
