@@ -28,7 +28,7 @@
 
     Access to the full KNIME course materials for in-company use in order to educate your technical team. We also provide access to KNIME marketing materials.
 
-- **Users can visually create data flows (or pipelines): **
+- **Users can visually create data flows (or pipelines):**
 
 - **Selectively execute some or all analysis steps, and later inspect the results, models, and interactive views**
 
