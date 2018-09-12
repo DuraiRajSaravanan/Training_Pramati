@@ -25,7 +25,7 @@
    
 3,**Marketing material and Educational material :**  
 
-    Access to the full KNIME course materials for in-company use in order to educate your technical team. We also provide access to KNIME marketing materials.
+   Access to the full KNIME course materials for in-company use in order to educate your technical team. We also provide access to KNIME marketing materials.
 
 4,**Users can visually create data flows (or pipelines)**
 
