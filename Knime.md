@@ -12,7 +12,6 @@
 - **Open for innovation**     : 
      The additional Python and R scripting possibilities and host of plugins take it beyond a simple ETL tool to a proper       business intelligence and data analysis suite. 
 
-     Reference blog : [http://allican.be/blog/2016/10/26/business-intelligence-with-knime.html](http://allican.be/blog/2016/10/26/business-intelligence-with-knime.html)
     
 - **Support and help from KNIME** :
   #### KNIME Development Services
@@ -22,8 +21,7 @@
   #### Training Services
   KNIME offers different training classes to help get the most out of KNIME. Training sessions can be at the KNIME facilities in Zurich or in house at your site and conducted either by KNIME staff or a qualified partner.
 
-   Reference : [https://www.knime.com/services](https://www.knime.com/services)
-
+   
 - **Marketing material and Educational material :**  
 
     Access to the full KNIME course materials for in-company use in order to educate your technical team. We also provide access to KNIME marketing materials.
