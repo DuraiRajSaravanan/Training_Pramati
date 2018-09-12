@@ -14,7 +14,7 @@ The additional Python and R scripting possibilities and host of plugins take it 
 
 Reference blog : [http://allican.be/blog/2016/10/26/business-intelligence-with-knime.html](http://allican.be/blog/2016/10/26/business-intelligence-with-knime.html)
     
-### Support and help from KNIME :
+- **Support and help from KNIME** :
 #### KNIME Development Services
 Many companies contribute their development to the open-source community. In addition, KNIME offers development services to enhance KNIME with additional functionality. This can be enhancements within KNIME itself or additional nodes that provide custom functionality. 
 #### Data Analysis and Consulting Services
@@ -24,21 +24,21 @@ KNIME offers different training classes to help get the most out of KNIME. Train
 
 Reference : [https://www.knime.com/services](https://www.knime.com/services)
 
-### Marketing material and Educational material : 
+- **Marketing material and Educational material :**  
 
 Access to the full KNIME course materials for in-company use in order to educate your technical team. We also provide access to KNIME marketing materials.
 
-### Users can visually create data flows (or pipelines)
+- **Users can visually create data flows (or pipelines): **
 
-### Selectively execute some or all analysis steps, and later inspect the results, models, and interactive views
+- **Selectively execute some or all analysis steps, and later inspect the results, models, and interactive views**
 
-### Plugins can be added to increase functionality
+- **Plugins can be added to increase functionality**
 
-### Support differents types of database(through JDBC or native connectors: SQLite, SQL Server, MySQL, PostgreSQL, Vertica and H2)
+- **Support differents types of database(through JDBC or native connectors: SQLite, SQL Server, MySQL, PostgreSQL, Vertica and H2)**
 
-### Additional plugins allows the integration of methods for Text mining, Image mining, as well as time series analysis.
+- **Additional plugins allows the integration of methods for Text mining, Image mining, as well as time series analysis.**
 
-### KNIMEs core-architecture allows processing of large data volumes that are only limited by the available hard disk space (not limited to the available RAM). E.g. KNIME allows analysis of 300 million customer addresses, 20 million cell images and 10 million molecular structures.
+- **KNIMEs core-architecture allows processing of large data volumes that are only limited by the available hard disk space (not limited to the available RAM). E.g. KNIME allows analysis of 300 million customer addresses, 20 million cell images and 10 million molecular structures.**
     
 
 ## Cons of KNIME :
