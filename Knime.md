@@ -44,7 +44,7 @@
   - Although there is a bit of a learning curve to use Knime, it’s quite user friendly and anyone (without programming experience) will be able to learn to use it.
 
 ## Which tool is being used widely in market?
-- **Informatica**
+**Informatica**
   - Informatica is a software development company founded in 1993. It is headquartered in Redwood City, California. Its core products include Enterprise Cloud Data Management and Data Integration. It is being widely used in market because,
    - Well established and new integration techniques are used
    - Informatica is the most mature ETL tool in market
