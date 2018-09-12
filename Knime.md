@@ -9,7 +9,7 @@
 
 ## Pros of KNIME :
               
-### Open for innovation     : 
+- **Open for innovation**     : 
 The additional Python and R scripting possibilities and host of plugins take it beyond a simple ETL tool to a proper business intelligence and data analysis suite. 
 
 Reference blog : [http://allican.be/blog/2016/10/26/business-intelligence-with-knime.html](http://allican.be/blog/2016/10/26/business-intelligence-with-knime.html)
