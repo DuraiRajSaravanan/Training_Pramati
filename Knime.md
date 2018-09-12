@@ -32,8 +32,6 @@
 
 - **Selectively execute some or all analysis steps, and later inspect the results, models, and interactive views**
 
-- **Plugins can be added to increase functionality**
-
 - **Support differents types of database(through JDBC or native connectors: SQLite, SQL Server, MySQL, PostgreSQL, Vertica and H2)**
 
 - **Additional plugins allows the integration of methods for Text mining, Image mining, as well as time series analysis.**
