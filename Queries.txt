@@ -23,6 +23,8 @@ QUERIES :
 
 4) select name from employee where mgr_id is null;
 
+5) select distinct b.name AS manager_names from employee a,employee b where a.mgr_id=b.emp_id and b.termination_date<now()::date;
+
 6) select distinct  d.name as "Department name" from dept d, employee e where d.dept_id=e.dept_id and e.termination_date is not null;
 
 7) select distinct d.name as "Department name" from dept d, employee e where d.dept_id=e.dept_id and e.termination_date is not null;	
