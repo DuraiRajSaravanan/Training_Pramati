@@ -52,6 +52,5 @@
        ) AS MissingID
        
     EXCEPT 
-    
-       SELECT dept_id FROM dept;
+         SELECT dept_id FROM dept;
 
