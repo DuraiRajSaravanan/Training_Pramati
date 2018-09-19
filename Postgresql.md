@@ -48,6 +48,7 @@
        (SELECT MIN(dept_id) FROM dept),
          
        (SELECT MAX(dept_id) FROM dept)
+       
        ) AS MissingID
        
     EXCEPT 
