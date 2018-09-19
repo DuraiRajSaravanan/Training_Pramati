@@ -44,10 +44,16 @@
 12. select a.name employee from employee a,employee b where b.emp_id=a.mgr_id and a.joining_date>'01-01-2013'and (select count(a.name) from employee a,employee b where b.emp_id = a.mgr_id )>2;
 
 13. SELECT generate_series
-       (                                                   
-         (SELECT MIN(dept_id) FROM dept),
-         (SELECT MAX(dept_id) FROM dept)
+
+       (                     
+       
+       (SELECT MIN(dept_id) FROM dept),
+         
+       (SELECT MAX(dept_id) FROM dept)
+       
        ) AS MissingID
- EXCEPT 
+       
+    EXCEPT 
+    
        SELECT dept_id FROM dept;
 
