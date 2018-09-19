@@ -25,9 +25,9 @@ QUERIES :
 
 5) select distinct b.name AS manager_names from employee a,employee b where a.mgr_id=b.emp_id and b.termination_date<now()::date;
 
-6) select distinct  d.name as "Department name" from dept d, employee e where d.dept_id=e.dept_id and e.termination_date is not null;
+6) select distinct ad.name Dept_name from employee a,employee b,dept ad,dept bd  where a.mgr_id=b.emp_id and b.termination_date<now()::date and ad.dept_id=a.dept_id and bd.dept_id=b.dept_id;
 
-7) select distinct d.name as "Department name" from dept d, employee e where d.dept_id=e.dept_id and e.termination_date is not null;	
+7) select distinct bd.name Dept_name from employee a,employee b,dept ad,dept bd  where a.mgr_id=b.emp_id and b.termination_date<now()::date and ad.dept_id=a.dept_id and bd.dept_id=b.dept_id;
 
 8) select a.name AS "Emp_Name" FROM employee a, employee b WHERE b.emp_id = a.mgr_id and b.salary<a.salary;
 
