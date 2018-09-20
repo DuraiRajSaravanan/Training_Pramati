@@ -55,7 +55,8 @@
        
     EXCEPT 
          SELECT dept_id FROM dept;
-14.``` 
+14.
+``` 
 SELECT m1.Manager_name,m1.jd,m2.sd
 FROM
     (SELECT    DISTINCT m2.name AS Manager_name,
