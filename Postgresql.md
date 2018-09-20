@@ -55,7 +55,7 @@
        
     EXCEPT 
          SELECT dept_id FROM dept;
-14. SELECT m1.Manager_name,m1.jd,m2.sd
+14.``` SELECT m1.Manager_name,m1.jd,m2.sd
 FROM
     (SELECT    DISTINCT m2.name AS Manager_name,
     FIRST_VALUE(CONCAT(m1.name,'-',m1.joining_date)) OVER(
@@ -73,3 +73,4 @@ INNER JOIN
     WHERE m2.emp_id=m1.mgr_id
     )m2
 ON m1.Manager_name=m2.Manager_name;
+```
