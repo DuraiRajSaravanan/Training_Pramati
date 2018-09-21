@@ -180,10 +180,6 @@ ALTER TABLE employee
 ADD CONSTRAINT FK_dept_code FOREIGN KEY (dept_id)
 REFERENCES dept (dept_id) ;
 ```
-
-4. While loading the table, if the given dept_id is not in dept table, we should insert a record in dept table first with id and name as dept_id in the csv and then insert the employee table
-
-
 5. create a new employee table (say employee1) with the same structure and constraints of employee table but not data
 
 ``` 
