@@ -7,7 +7,7 @@ select e.name as "Employee name",m.name as "Manager name" from employee e ,emplo
 
 ```
  select e.name as "Employee name",e.joining_date as "Employee joining date",m.name as "Manager name",m.joining_date  as "Manager joining date"  from employee e ,employee m where e.mgr_id=m.emp_id;
-```Tr
+```
 3)Employee name, Emp Dept, Mgr Dept
 
 ```
