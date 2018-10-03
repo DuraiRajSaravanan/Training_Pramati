@@ -37,14 +37,16 @@
   border-bottom-width: 0px;
   border-left-width: 0px;
   border-top-width: 0px;
+  padding-right:14px;
   border-color: black";
- color: black;
+  color: black;
 }
 
 .nav-bar-button-idea {
   background-color: white;
   border-bottom-width: 0px;
   border-left-width: 0px;
+  padding-right:10px;
   border-top-width: 0px;
   color: black;
 }
