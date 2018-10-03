@@ -38,12 +38,9 @@
   border-bottom-width: 0px;
   border-left-width: 0px;
   border-top-width: 0px;
-<<<<<<< HEAD
   border-color: black;
-=======
   padding-right:14px;
   border-color: black";
->>>>>>> 90a1e430d645dff465c3113d1a18ee781b5b1159
   color: black;
 }
 
@@ -51,11 +48,8 @@
   background-color: white;
   border-bottom-width: 0px;
   border-left-width: 0px;
-<<<<<<< HEAD
   padding-right:14px;
-=======
   padding-right:10px;
->>>>>>> 90a1e430d645dff465c3113d1a18ee781b5b1159
   border-top-width: 0px;
   border-right-width: 0px;
   border-right-style: solid;
@@ -94,7 +88,6 @@
 .navigation-bar li a {
   color: black;
   font-size: 16px;
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   text-decoration: none;
   line-height: 70px;
   padding: 5px 15px;
@@ -140,3 +133,48 @@ hr {
   background-color: #f6f6f6;
 }
 
+
+.overflow {
+	padding-top : 1em;
+	height : 5em;
+}
+
+.logo {
+	float : left;
+	padding-left : 2em;
+}
+
+.icon_sprite {
+	float : right;
+	padding-right : 78px;
+}
+
+.nav_link{  
+	padding : 0;  
+	margin :  0;
+	padding-right :  40px;
+	float : right;
+	color : black;
+}
+
+.home_link{   
+	padding-right : 20px;   
+	padding-left : 20px;   
+	border-right : 1px solid black;
+	color : black;
+	text-decoration : none;
+}
+.idea_link{
+	padding-right : 20px;   
+	padding-left : 20px;   
+	border-right : 1px solid black;
+	color : black;
+	text-decoration : none;
+}
+
+.about_link{   
+	padding-right : 25px;   
+	padding-left : 20px;
+	color : black;
+	text-decoration : none;
+}
