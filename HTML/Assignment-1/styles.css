@@ -38,7 +38,12 @@
   border-bottom-width: 0px;
   border-left-width: 0px;
   border-top-width: 0px;
+<<<<<<< HEAD
   border-color: black;
+=======
+  padding-right:14px;
+  border-color: black";
+>>>>>>> 90a1e430d645dff465c3113d1a18ee781b5b1159
   color: black;
 }
 
@@ -46,7 +51,11 @@
   background-color: white;
   border-bottom-width: 0px;
   border-left-width: 0px;
+<<<<<<< HEAD
   padding-right:14px;
+=======
+  padding-right:10px;
+>>>>>>> 90a1e430d645dff465c3113d1a18ee781b5b1159
   border-top-width: 0px;
   border-right-width: 0px;
   border-right-style: solid;
