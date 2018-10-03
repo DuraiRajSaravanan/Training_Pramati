@@ -24,29 +24,32 @@
 }
 
 .ver-align {
-  vertical-align: text-top
+  vertical-align: text-top;
 }
 
 .logo-margin {
-  margin-bottom: 0px
+  margin-bottom: 0px;
 }
 
 .nav-bar-button {
   background-color: white;
   margin-right: 1px;
+  padding-right:14px;
   border-bottom-width: 0px;
   border-left-width: 0px;
   border-top-width: 0px;
-  border-color: black";
- color: black;
+  border-color: black;
+  color: black;
 }
 
-.nav-bar-button-idea {
+.idea_button {
   background-color: white;
   border-bottom-width: 0px;
   border-left-width: 0px;
+  padding-right:14px;
   border-top-width: 0px;
-  color: black;
+  border-right-width: 0px;
+  border-right-style: solid;
 }
 
 .navigation-bar {
