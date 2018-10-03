@@ -1,0 +1,151 @@
+<style>
+  body {
+      font: 400 15px Lato, sans-serif;
+      line-height: 1.5;
+      color: #000000;
+  }
+
+
+  #navigation-container {
+  width: 1200px;
+  margin: 0 auto;
+  height: 70px;
+}
+p
+{
+color: #000080;
+padding-left: 20px
+}
+
+.floatleft
+{
+float:left;
+}
+.floatright
+{
+float:right;
+}
+.fig-cap
+{
+float:right;
+margin-right: 0px;
+padding-right:10px
+}
+.ver-align
+{
+vertical-align:text-top
+}
+.logo-margin
+{
+margin-bottom: 0px
+}
+
+.nav-bar-button
+{
+background-color: white; 
+margin-right: 1px;
+border-bottom-width: 0px;
+border-left-width: 0px;
+border-top-width: 0px; 
+border-color:black";
+color: black; 
+}
+
+.navigation-bar {
+  background-color: #ffffff;
+  height: 70px;
+  width: 100%;
+  text-align:center;
+}
+
+.navigation-bar ul {
+  padding: 0px;
+  margin: 0px;
+  float:right;
+  display:inline-block;
+  vertical-align:bottom;
+}
+h2
+{
+text-align: left;
+padding-left: 20px;
+color:green;
+}
+.navigation-bar li {
+  list-style-type: none;
+  padding: 0px;
+  height: 24px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  display: inline;
+}
+
+.navigation-bar li a {
+  color: black;
+  font-size: 16px;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  line-height: 70px;
+  padding: 5px 15px;
+  opacity: 0.7;
+}
+.column {
+    float: left;
+    width:  32%;
+    padding: 0px;
+}
+.read-me
+{
+float:right; padding-right:10px
+}
+.active
+{
+border-style: solid;
+border-color: green;
+background-color:#f5f7fa
+}
+
+hr {
+  border: 0;
+border-top: 2px dotted black;
+  clear:both;
+  display:block;
+  width: 100%;               
+
+  height: 1px;
+}
+
+ .responsive {
+    width: 100%;
+    height: auto;
+  }
+  .col-md-4
+  {
+   width:30%
+  }
+  .container-fluid {
+      padding: 60px 50px;
+  }
+  .bg-grey {
+      background-color: #f6f6f6;
+  }
+.button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #ffffff;
+}
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #ffffff;
+}
+.button3 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #ffffff;
+}
+ 
+  .item span {
+      font-style: normal;
+  }
+</style>
